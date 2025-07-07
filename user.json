@@ -1,0 +1,25 @@
+{
+  "nome": "Rafael",
+  "idade": 30,
+  "filhos": null,
+  "hobbies": ["Codar", "Academia", "Ler", "Basquete"],
+  "casado": true,
+  "empresas": {
+    "emprsa A": {
+      "fundada": 2010,
+      "colaboradores": 51
+    },
+    "emprsa B": {
+      "fundada": 2015,
+      "colaboradores": 100
+    },
+    "emprsa C": {
+      "fundada": 2020,
+      "colaboradores": 120
+    },
+    "emprsa D": {
+      "fundada": 2024,
+      "colaboradores": 34
+    }
+  }
+}
