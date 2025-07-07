@@ -9,6 +9,11 @@ function sum(firtsNumber, seccondNumber) {
 const person = {
   name: "John",
   age: 30,
+  talk: function () {
+    console.log("Hello word");
+  },
 };
 
-module.exports = { multi, sum, person };
+console.log(person);
+
+// module.exports = { multi, sum, person };
